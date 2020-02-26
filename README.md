@@ -1,3 +1,5 @@
+Fork because the alipay lib has changed name, and can't config at comile time.
+
 # alipay_me
 
 [![pub package](https://img.shields.io/pub/v/alipay_me.svg)](https://pub.dartlang.org/packages/alipay_me)
